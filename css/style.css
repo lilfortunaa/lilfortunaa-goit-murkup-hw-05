@@ -724,11 +724,11 @@ img {
 .custom-checkbox {
   width: 16px;
   height: 16px;
+  border: 1px solid rgba(46, 47, 66, 0.4);
   display: inline-flex;
   justify-content: center;
   align-items: center;
   border-radius: 2px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
   border-color: transparent;
   margin-right: 8px;
   fill: transparent;
