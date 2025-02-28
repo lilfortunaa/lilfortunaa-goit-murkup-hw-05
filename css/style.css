@@ -556,6 +556,7 @@ img {
 
 .subscribe-icon {
   margin-left: 16px;
+  fill: #fff;
 }
 
 /* #endregion footer */
@@ -620,6 +621,7 @@ img {
 .close-button:hover {
   background-color: #404bbf;
   fill: #ffffff;
+  border: none;
 }
 
 .close-button-icon {
